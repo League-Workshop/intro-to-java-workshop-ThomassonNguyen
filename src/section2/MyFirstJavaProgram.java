@@ -11,7 +11,7 @@ public class MyFirstJavaProgram {
 	Robot slayer = new Robot();
 	slayer.setSpeed(100);
 	slayer.penDown();
-	for( int i=0 ; i<4 ;
+	for( int i=0 ; i<4 ;i++) {
 	
 	
 	
@@ -28,4 +28,5 @@ public class MyFirstJavaProgram {
 	
 	
 	}
+}
 }
